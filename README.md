@@ -63,7 +63,7 @@ A modern React-based E-Commerce web application with cart, wishlist, product lis
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-react-app.git
+git clone https://github.com/chavannandini28/my-onlineshop.git
 ```
 
 ### 2. Install dependencies
